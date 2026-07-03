@@ -2,7 +2,7 @@
 """
 Created on Thu Jul  2 20:53:15 2026
 
-@author: afzal
+@author: aman
 """
 
 # h1) Linear Search - Spam Detector
